@@ -18,9 +18,9 @@ If you install traktprogress globally ( `-g option in npm`) you can find your co
 * Encrypt your account's password in SHA-1 (you can use: [SHA-1 Encrypt](http://www.sha1-online.com/) )
 * Put in your configuration file: your username, your encrypted password and your apikey
 
-## How use it
+## How to use it
 
-* Run it with `traktprogress`, it takes your episodes and put it into a list
+* Run it with `traktprogress`, it takes your episodes from the trakt.tv site and put it into a list
 * You can move up/down using arrow keys
 * When you want to check an episode you can press `enter` and select `yes` otherwise `tab` or using your mouse select `no`
 * Press `q` to exit

@@ -1,12 +1,14 @@
 # TraktProgress
 
-NodeJS CLI client to update my progress in [trakt.tv](http://trakt.tv/) website
+NodeJS CLI client to update [trakt.tv](http://trakt.tv/) progress
 
 ## Install
 
 Clone this repo and execute `./bin/traktprogress.js` or `npm install traktprogress -g`
 
-*REMEMBER TO EDIT COFIGURATION FILE*
+**REMEMBER TO EDIT COFIGURATION FILE**
+
+If you install traktprogress globally ( `-g option in npm`) you can find your configuration file in `/usr/lib/node_modules/traktprogress`
 
 ## How to configure it
 

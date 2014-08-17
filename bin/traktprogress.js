@@ -159,6 +159,8 @@ function init() {
       design.tableDate.append(design.listDate);
       design.listTitle.focus();
       design.screen.render();
+    } else {
+      console.error(ris);
     }
   });
 };

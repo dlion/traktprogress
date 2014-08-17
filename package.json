@@ -1,6 +1,6 @@
 {
   "name": "traktprogress",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "description": "nodejs client to update trakt.tv progress",
   "main": "./bin/traktprogress.js",
   "bin": {

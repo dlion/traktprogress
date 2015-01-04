@@ -2,6 +2,8 @@
 
 NodeJS CLI client to update [trakt.tv](http://trakt.tv/) progress
 
+# -- API DEPRECATED --
+
 ## Install
 
 Clone this repo and execute `./bin/traktprogress.js` or `npm install traktprogress -g`
